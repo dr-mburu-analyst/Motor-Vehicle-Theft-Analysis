@@ -43,6 +43,7 @@
   ![Motor Vehicle Theft Analysis](images/Question%205%20Results.png)
   
 - **Question 5**: What is the distribution of stolen vehicles by make_type?
+  https://github.com/dr-mburu-analyst/Motor-Vehicle-Theft-Analysis/blob/main/images/Question%205%20Code.png
 - **Question 5**: What is the distribution of stolen vehicles by make_type?
 
 
