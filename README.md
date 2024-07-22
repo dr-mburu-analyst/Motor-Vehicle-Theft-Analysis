@@ -37,6 +37,17 @@
 - **Question 4**: What is the distribution of stolen vehicles by regional population?
   ![Motor Vehicle Theft Analysis](images/Question%204%20Code.png)
   ![Motor Vehicle Theft Analysis](images/Question%204%20Results.png)
+  
 - **Question 5** 
   ![Motor Vehicle Theft Analysis](images/Question%205%20Code.png)
   ![Motor Vehicle Theft Analysis](images/Question%205%20Results.png)
+
+
+
+
+
+
+
+
+
+  
