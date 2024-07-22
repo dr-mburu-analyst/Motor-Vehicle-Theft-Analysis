@@ -39,4 +39,4 @@
   ![Motor Vehicle Theft Analysis](images/Question%204%20Results.png)
 - **Question 5** 
   ![Motor Vehicle Theft Analysis](images/Question%205%20Code.png)
-  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+  ![Motor Vehicle Theft Analysis](images/Question%205%20Results.png)
