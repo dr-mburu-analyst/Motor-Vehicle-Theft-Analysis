@@ -38,10 +38,12 @@
   ![Motor Vehicle Theft Analysis](images/Question%204%20Code.png)
   ![Motor Vehicle Theft Analysis](images/Question%204%20Results.png)
   
-- **Question 5** 
+- **Question 5**: What is the distribution of stolen vehicles by make_type?
   ![Motor Vehicle Theft Analysis](images/Question%205%20Code.png)
   ![Motor Vehicle Theft Analysis](images/Question%205%20Results.png)
-
+  
+- **Question 5**: What is the distribution of stolen vehicles by make_type?
+- **Question 5**: What is the distribution of stolen vehicles by make_type?
 
 
 
