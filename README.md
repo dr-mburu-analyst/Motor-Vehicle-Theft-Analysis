@@ -22,18 +22,20 @@
 
 #### SQL Analysis
 
-- **Question 1**: What was the total number of stolen vehicles?
-- 
+- **Question 1**: What was the total number of stolen vehicles? 
 ![Motor Vehicle Theft Analysis](images/Question%201.png)
 ![Motor Vehicle Theft Analysis](images/Question%201%20Results.png)
 
-- **Question 2**
-
+- **Question 2**: What is the distibution of stolen vehicles by vehicle_type?
   ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
   ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
 
 - **Question 3**
-
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
 - **Question 4**
-
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
 - **Question 5** 
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
