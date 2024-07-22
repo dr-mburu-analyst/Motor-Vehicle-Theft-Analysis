@@ -29,6 +29,9 @@
 
 - **Question 2**
 
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+  ![Motor Vehicle Theft Analysis](images/Question%202%20Code.png)
+
 - **Question 3**
 
 - **Question 4**
