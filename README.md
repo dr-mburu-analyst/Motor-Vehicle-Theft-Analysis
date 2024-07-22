@@ -23,6 +23,7 @@
 #### SQL Analysis
 
 - **Question 1**: What was the total number of stolen vehicles?
+- 
 ![Motor Vehicle Theft Analysis](images/Question%201.png)
 ![Motor Vehicle Theft Analysis](images/Question%201%20Results.png)
 
