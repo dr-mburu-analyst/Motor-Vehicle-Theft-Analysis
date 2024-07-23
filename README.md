@@ -1,5 +1,7 @@
 # Motor-Vehicle-Theft-Analysis
 
+#### Tools used: Excel, SQL, Power BI
+
 ## Project Objective Summary
 
 - **Objective**: As a newly hired data analyst for the police department, your task is to analyze the "Motor Vehicle Theft" dataset and create insightful and user-friendly dashboards and reports.
