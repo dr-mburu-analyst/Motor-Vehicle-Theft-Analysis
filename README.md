@@ -1,5 +1,5 @@
 # Motor Vehicle Theft Project 
-- ![Motor Vehicle Theft Dashboard](images/Motor_Vehicle_Theft%20New%20Zealand.png)
+- ![Motor Vehicle Theft Dashboard](images/NZ%20POLICE%20LOGO.png)
 
 #### Tools used: Excel, SQL, Power BI
 
