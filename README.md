@@ -1,5 +1,4 @@
-# Motor Vehicle Theft Project 
-- ![Motor Vehicle Theft Dashboard](images/NZ%20POLICE%20LOGO.png)
+# Power BI Project: Motor Vehicle Theft Analysis
 
 #### Tools used: Excel, SQL, Power BI
 
